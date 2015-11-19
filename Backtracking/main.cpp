@@ -24,7 +24,7 @@ void imprimir(Nodo* n)
     imprimir(n->hijo_der);
 }
 
-bool existe(int valor)
+bool existe(Nodo*n,int valor)
 {
 
 }
