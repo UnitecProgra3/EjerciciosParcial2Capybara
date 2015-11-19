@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1447345752 source:/home/turupawn/Clases/Progra3Capybara/Clase2/Map/main.cpp
+	<iostream>
+	<map>
+

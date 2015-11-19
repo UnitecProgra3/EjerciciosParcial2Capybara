@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447862383 source:/home/turupawn/Clases/Progra3Capybara/Clase2/ArchivosBinarios2/main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
