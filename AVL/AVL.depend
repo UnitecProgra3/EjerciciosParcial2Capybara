@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1448295567 source:/home/turupawn/Clases/Progra3Capybara/Clase2/AVL/main.cpp
+	<iostream>
+	"ArbolAVL.h"
+
+1448295554 source:/home/turupawn/Clases/Progra3Capybara/Clase2/AVL/ArbolAVL.cpp
+	"ArbolAVL.h"
+
+1448295061 /home/turupawn/Clases/Progra3Capybara/Clase2/AVL/ArbolAVL.h
+	"Nodo.h"
+	<iostream>
+
+1448294569 /home/turupawn/Clases/Progra3Capybara/Clase2/AVL/Nodo.h
+	<iostream>
+
+1448294473 source:/home/turupawn/Clases/Progra3Capybara/Clase2/AVL/Nodo.cpp
+	"Nodo.h"
+
